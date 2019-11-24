@@ -3,11 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.idea
 # C extensions
 *.so
 
 # Distribution / packaging
 .Python
+venv
+venv/
 build/
 develop-eggs/
 dist/
